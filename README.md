@@ -1,6 +1,3 @@
-# jogo-do-pibic
-
-[index-atualizado.html](https://github.com/user-attachments/files/33215153/index-atualizado.html)
 
 <!doctype html>
 <html lang="pt-BR">
